@@ -1,0 +1,4 @@
+scenario,phase,street,start_week,end_week,effect_ratio,detour_ratio,capacity,note
+甲,P1,A,W4,W6,1.0,1.0,,现行
+乙,Q1,A,W4,W5,0.7,0.4,,先短封 A
+乙,Q2,D,W6,W7,0.8,0.6,,再封侧街 D

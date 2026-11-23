@@ -1,0 +1,4 @@
+route_id,street,status,start_week,end_week,capacity
+R0,,open,,,
+R1,,open,,,
+R2,,closed,,,

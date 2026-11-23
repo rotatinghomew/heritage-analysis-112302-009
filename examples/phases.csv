@@ -1,0 +1,3 @@
+phase,street,start_week,end_week,kind,detour,route
+P1,A,W4,W6,works,yes,R1
+P1,D,W4,W6,side,,R1

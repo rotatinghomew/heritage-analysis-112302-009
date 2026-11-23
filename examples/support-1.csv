@@ -1,0 +1,7 @@
+notice,shop,owner,period,amount,status,paid
+N1,S1,O1,W1-W3,150,issued,no
+N2,S1,O1,W4-W6,900,issued,no
+N3,S2,O2,W1-W3,120,draft,no
+N4,S2,O2,W4-W6,600,issued,no
+N5,S3,O3,W4-W6,500,issued,no
+N6,S4,O5,W4-W6,400,issued,no
