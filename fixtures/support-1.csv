@@ -1,0 +1,4 @@
+notice,shop,period,amount,status,paid
+N1,S1,W1,100,draft,no
+N2,S1,W2,250,issued,no
+N3,S2,W2,180,issued,yes

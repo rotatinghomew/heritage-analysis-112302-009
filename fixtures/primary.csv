@@ -1,0 +1,6 @@
+shop,owner,week,amount,status,open,street,phase,detour,notice
+S1,O1,W1,1000,trade,yes,A,pre,,N1
+S1,O1,W2,600,trade,yes,A,works,yes,N2
+S2,O2,W1,,missing,yes,A,pre,,N1
+S2,O2,W2,0,zero,yes,A,works,yes,N2
+S3,O3,W2,850,trade,yes,B,works,no,
